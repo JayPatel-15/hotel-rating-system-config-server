@@ -1,1 +1,1 @@
-# microservices_demo-_config_server
+# hotel-rating-system_config_server
