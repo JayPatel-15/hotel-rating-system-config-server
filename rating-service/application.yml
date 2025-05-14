@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Rating-SERVICE
+    name: rating-service
   datasource:
     url: jdbc:postgresql://localhost:5432/hotelRating
     username: postgres
