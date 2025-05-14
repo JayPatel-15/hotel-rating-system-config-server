@@ -1,1 +1,1 @@
-# hotel-rating-system_config_server
+# hotel-rating-system-config-server
